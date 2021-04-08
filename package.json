@@ -1,0 +1,14 @@
+{
+  "name": "codificar-decodificar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "codi": "node codificador.js",
+    "deco": "node decodificador.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Juan Segnana, Gonzalo Zelinka",
+  "license": "ISC"
+}
